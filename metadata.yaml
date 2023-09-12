@@ -1,0 +1,35 @@
+_repo: The-gods-of-Mexico_71503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Spence
+description: ''
+gutenberg_issued: '2023-08-27'
+identifiers:
+  gutenberg: '71503'
+  lccn: '23014955'
+language: en
+pgterms:marc904: https://archive.org/details/godsofmexico00spen_0/page/n7
+pgterms:marc905: 20190105012530spence
+pgterms:marc906: '1923'
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bFrederick A. Stokes Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian mythology -- Mexico'
+- !lcsh 'Mexico -- Religion'
+- !lcsh 'Aztec mythology'
+- !lcc 'F1201'
+- GITenberg
+title: The gods of Mexico
+url: http://www.gutenberg.org/ebooks/71503
